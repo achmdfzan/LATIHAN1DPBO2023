@@ -7,20 +7,20 @@
   Digunakan sebagai tempat untuk menampung method-method yang berguna dalam memproses data mahasiswa. Class ini didesain untuk tidak pernah diinstansiasi sama sekali (*atau hanya diinstansiasi satu kali dalam bahasa Python), karena semua atribut dan method dalam class ini bersifat static. Class ini berisi method untuk menambah, mengubah, dan menghapus data, serta method untuk menampilkan output dalam format tabel
 
 ### Alur Program
-#####- Bahasa C++, Python, dan Java
+##### - Bahasa C++, Python, dan Java
   1. User menjalankan program;
   2. User melihat data mahasiswa yang tersedia di awal program;
   3. User memilih perintah yang ingin dilakukan (Create/Update/Delete);
   4. User menyelesaikan proses selanjutnya sesuai perintah yang dipilih;
   5. User melihat data mahasiswa yang telah berubah setelah perintah dijalankan;
   6. Ulangi langkah 3 hingga user menutup program
-#####- Bahasa PHP
+##### - Bahasa PHP
   1. User menjalankan program;
   2. User melihat data mahasiswa awal, dan data mahasiswa yang telah berubah, dengan asumsi proses Create, Update, dan Delete hanya bisa dilakukan di dalam kode program.
   3. User menutup program
   
-###Tambahan
-#####- Struktur Data yang digunakan untuk setiap bahasa berbeda-beda
+### Tambahan
+##### - Struktur Data yang digunakan untuk setiap bahasa berbeda-beda
   C++    -> Vector
   Java   -> ArrayList
   PHP    -> Array
